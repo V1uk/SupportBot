@@ -1,0 +1,66 @@
+{
+    "SupportBot": "v3.5 / Download addons @ https://itzemerald.tk/",
+	
+    "token": "NTk1MTIyODg2OTY0OTM2NzA1.XRxQ_A.KsXu2yfk9ytwkvb4pksGKSZVYDs",
+    "prefix": "!",
+    "botname": "Mars | Support",
+    "colour": "#6565EE",
+    "footer": "Support Bot, By Mars.RIP Development Team",
+    
+    "BotStatus": "dev123.mars.rip | !help",
+    
+    "staff": "Staff",
+    "support": "Saff",
+    "everyone": "@everyone",
+    "Auto_Role": "",
+    
+    "category": "Tickets",
+    "Ticket_Message": "Your support ticket has been opened successfully\nPlease allow us some time to reach out to you.",
+    "Ticket_Logs": "ticket-logs",
+    
+    "Announcement_Title": "Mars.RIP Announcement",
+    "Announcement_Channel": "announcements",
+    
+    "Welcome_Message": "Welcome to the server!",
+    "Welcome_Channel": "welcome",
+    
+    "Leave_Message": "Thank you for visiting us!",
+    "Leave_Channel": "welcome",
+    
+    "Poll_Channel": "polls",
+    "Poll_Title": "📊 Polls",
+    "Reaction_Poll_1": "✅",
+    "Reaction_Poll_2": "❎",
+    
+    "Suggestion_Title": "Mars Suggestions",
+    "Suggestion_Channel": "suggestions",
+    "suggestyes": "✅",
+    "suggestno": "❎",
+    
+    "Report_Channel": "reports",
+    "Report_Title": "Mars Report",
+    
+    "LINKS": {
+        "Discord": "mars.rip",
+        "Twitter": "https://twitter.com/MARTIANRIP",
+        "Website": "mars.rip"
+    },
+    
+    "LINKS_TITLE": "Mars.RIP Links",
+    
+    "Ticket_Command": "ticket",
+    "Suggest_Command": "suggest",
+    "Say_Command": "say",
+    "Remove_Command": "remove",
+    "Add_Command": "add",
+    "Ping_Command": "ping",
+    "Close_Command": "close",
+    "Forceclose_Command": "forceclose",
+    "Rename_Command": "rename",
+    "Help_Command": "help",
+    "Link_Command": "links",
+    "Lockchat_Command": "lock",
+    "UnLockchat_Command": "unlock",
+    "Poll_Command": "poll",
+    "Report_Command": "report"
+}
